@@ -1,0 +1,74 @@
+body{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+nav{
+    background-color:#373A3C ;
+       
+}
+header{
+    background-image: url("../img/bg-hero.jpg");
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 630px;
+    
+}
+
+#Acerca_de_mi{
+  text-align: center;
+}
+#Mis_trabajos{
+  background-color: #17A2B8 !important;
+  text-align: center;
+
+}
+#Mis_trabajos h2{color: white;
+  text-align: center;
+  font-weight: 800;
+  
+}
+  
+footer{
+  background-color: #0F0F0F;
+}
+footer p{
+  padding: 20px;
+  margin-bottom: 0px;
+}
+.btn-info {
+  --bs-btn-color: #000;
+  --bs-btn-bg: #17A2B8;
+  --bs-btn-border-color: #17A2B8;
+  --bs-btn-hover-color: #000;
+  --bs-btn-hover-border-color: #17A2B8;
+  --bs-btn-focus-shadow-rgb: 11, 172, 204;
+  --bs-btn-active-color: #000;
+  --bs-btn-active-border-color: #17A2B8;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #000;
+  background-color:#17A2B8;
+}
+i{
+  font-size: 35px;
+}
+form {
+  margin: 15px;
+}
+#Contacto ,h2{
+  margin: 20px;
+
+}
+.card-img-top{
+  width: auto;
+  height: 300px;
+  
+}
+.container{
+  position: center;
+  display:flex;
+  padding: 10px;
+  display: inline-block;
+}
